@@ -1,0 +1,23 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.outer-box {
+  border: 1px solid #94a3b8;
+  border-radius: 5px;
+  width: 60%;
+  margin: 50px auto 50px auto;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  height: 100%;
+}
+.submitbtn {
+  width: 20%;
+  top: 50%;
+  left: 40%;
+}
